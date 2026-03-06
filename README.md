@@ -26,13 +26,15 @@ Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 
 ## 👨‍💻 About Me
 
-Junior iOS Developer with experience in building mobile applications using **Swift and SwiftUI**.
+🚀 **Junior iOS Developer** focused on building mobile applications using **Swift** and **SwiftUI**.
 
-I have practical experience integrating **mobile SDKs**, working with **App Store deployment**, and developing backend services using **Cloudflare Workers**.
+- 📱 Experience developing **native iOS applications**
+- 🔌 Integration of **mobile SDKs** (AppsFlyer, OneSignal, Firebase)
+- 🚀 **App Store deployment** and release management
+- ☁ Backend services development using **Cloudflare Workers**
+- 🎮 Previous experience with **Unity (C#)** in mobile apps and game systems
 
-Previously worked with **Unity (C#)** on mobile applications and game systems.
-
-Currently focused on improving my **native iOS development skills** and building production-ready mobile apps.
+📈 Currently focused on improving **native iOS development skills** and building **production-ready mobile apps**.
 
 ## 🛠 Tech Stack
 
