@@ -3,6 +3,10 @@
 <h3 align="center">🚀 Junior iOS Developer</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Swift+Developer;SwiftUI+Enthusiast;Mobile+Apps+%7C+SDK+Integrations;App+Store+Deployment" />
+</p>
+
+<p align="center">
 Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 </p>
 
@@ -15,7 +19,10 @@ Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 <img src="https://img.shields.io/badge/Email-bohdan2003myr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
----
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=swift,unity,ts,js,html,css,git" />
+</p>
 
 ## 👨‍💻 About Me
 
