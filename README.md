@@ -59,7 +59,7 @@ Currently focused on improving my **native iOS development skills** and building
 ## ⚡ Key Experience
 
 ### iOS Developer
-**Aweb** — Remote  
+**Confidential Company (NDA)** — Remote  
 05/2025 – 03/2026
 
 - Development of iOS applications using **Swift and SwiftUI**
@@ -71,7 +71,7 @@ Currently focused on improving my **native iOS development skills** and building
 ---
 
 ### Unity Developer
-**Aweb** — Remote  
+**Confidential Company (NDA)** — Remote  
 04/2024 – 05/2025
 
 - Development of mobile applications and games using **Unity (C#)**
@@ -82,7 +82,7 @@ Currently focused on improving my **native iOS development skills** and building
 ---
 
 ### Web Designer / Frontend Developer
-**Aweb** — Remote  
+**Confidential Company (NDA)** — Remote  
 05/2023 – 04/2024
 
 - Design and development of landing pages
