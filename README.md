@@ -24,6 +24,33 @@ Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 <img src="https://skillicons.dev/icons?i=swift,unity,ts,js,html,css,git" />
 </p>
 
+---
+
+## 🧭 Quick Navigation
+
+<p align="center">
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/About_Me-1f6feb?style=for-the-badge" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/Tech_Stack-238636?style=for-the-badge" />
+  </a>
+  <a href="#-key-experience">
+    <img src="https://img.shields.io/badge/Experience-8957e5?style=for-the-badge" />
+  </a>
+  <a href="#-education">
+    <img src="https://img.shields.io/badge/Education-d29922?style=for-the-badge" />
+  </a>
+  <a href="#-languages">
+    <img src="https://img.shields.io/badge/Languages-f85149?style=for-the-badge" />
+  </a>
+  <a href="#-connect-with-me">
+    <img src="https://img.shields.io/badge/Contact-0a66c2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 🚀 **Junior iOS Developer** focused on building mobile applications using **Swift** and **SwiftUI**.
