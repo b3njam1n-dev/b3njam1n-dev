@@ -38,25 +38,24 @@ Currently focused on improving my **native iOS development skills** and building
 | 🌐 **Web Designer / Frontend Developer** <br> Confidential Company (NDA) • Remote | 05/2023 – 04/2024 | • Development of marketing landing pages <br> • **HTML / CSS** layout implementation <br> • Responsive UI development |
 | 💻 **Freelance Developer** <br> Self-Employed | 09/2020 – Present | • Web development for small businesses <br> • Telegram bot development using **Python** <br> • Development of automation scripts <br> • Landing page development (**HTML, CSS, JavaScript**) |
 
-## 📦 GitHub Projects
-
-🚧 iOS apps and backend tools currently being prepared and published.
-
----
-
 ## 🎓 Education
 
-**Junior Specialist – Computer Engineering**
-
-Novograd-Volynskyi Applied Polytechnic College  
-2019 – 2023
+| Degree | Institution | Period |
+|------|-------------|------|
+| **Junior Specialist – Computer Engineering** | Novograd-Volynskyi Applied Polytechnic College | 2019 – 2023 |
 
 ---
 
 ## 🌍 Languages
 
-🇺🇦 Ukrainian — Native  
-🇬🇧 English — Pre-Intermediate
+| Language | Level |
+|--------|------|
+| 🇺🇦 Ukrainian | Native |
+| 🇬🇧 English | Pre-Intermediate (A2) |
+
+## 📦 GitHub Projects
+
+🚧 iOS apps and backend tools currently being prepared and published.
 
 ---
 
