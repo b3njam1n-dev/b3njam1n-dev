@@ -29,12 +29,31 @@ Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 ## 🧭 Quick Navigation
 
 <p align="center">
-  <a href="#-about-me">👨‍💻 About Me</a> |
-  <a href="#-tech-stack">🛠 Tech Stack</a> |
-  <a href="#-key-experience">⚡ Experience</a> |
-  <a href="#-education">🎓 Education</a> |
-  <a href="#-languages">🌍 Languages</a> |
-  <a href="#-connect-with-me">🤝 Contact</a>
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/About%20Me-1f6feb?style=for-the-badge">
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/Tech%20Stack-238636?style=for-the-badge">
+</a>
+
+<a href="#-key-experience">
+<img src="https://img.shields.io/badge/Experience-8957e5?style=for-the-badge">
+</a>
+
+<a href="#-education">
+<img src="https://img.shields.io/badge/Education-d29922?style=for-the-badge">
+</a>
+
+<a href="#-languages">
+<img src="https://img.shields.io/badge/Languages-f85149?style=for-the-badge">
+</a>
+
+<a href="#-connect-with-me">
+<img src="https://img.shields.io/badge/Contact-0a66c2?style=for-the-badge">
+</a>
+
 </p>
 
 ---
