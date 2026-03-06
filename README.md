@@ -21,55 +21,13 @@ Currently focused on improving my **native iOS development skills** and building
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📱 iOS Development
-
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-Integration-green?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-Parsing-orange?style=for-the-badge)
-![UserDefaults](https://img.shields.io/badge/UserDefaults-iOS-lightgrey?style=for-the-badge)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔌 Mobile SDKs
-
-![AppsFlyer](https://img.shields.io/badge/AppsFlyer-SDK-purple?style=for-the-badge)
-![OneSignal](https://img.shields.io/badge/OneSignal-Push-red?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-Analytics-yellow?style=for-the-badge&logo=firebase)
-![Unity Ads](https://img.shields.io/badge/Unity_Ads-Monetization-black?style=for-the-badge)
-
-### ☁ Backend
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-orange?style=for-the-badge&logo=cloudflare)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![REST Backend](https://img.shields.io/badge/REST_API-Backend-green?style=for-the-badge)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎮 Game Development
-
-![Unity](https://img.shields.io/badge/Unity-Game_Engine-black?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/C%23-Programming-purple?style=for-the-badge&logo=csharp)
-![Zenject](https://img.shields.io/badge/Zenject-DI_Framework-blue?style=for-the-badge)
-
-### 🌐 Web Development
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|--------|-------------|
+| 📱 **iOS Development** | ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=swift&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=flat) ![REST API](https://img.shields.io/badge/REST_API-Integration-green?style=flat) ![JSON](https://img.shields.io/badge/JSON-Parsing-orange?style=flat) ![UserDefaults](https://img.shields.io/badge/UserDefaults-iOS-lightgrey?style=flat) |
+| 🔌 **Mobile SDKs** | ![AppsFlyer](https://img.shields.io/badge/AppsFlyer-SDK-purple?style=flat) ![OneSignal](https://img.shields.io/badge/OneSignal-Push-red?style=flat) ![Firebase](https://img.shields.io/badge/Firebase-Analytics-yellow?style=flat&logo=firebase) ![Unity Ads](https://img.shields.io/badge/Unity_Ads-Monetization-black?style=flat) |
+| ☁ **Backend** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-orange?style=flat&logo=cloudflare) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-Backend-green?style=flat) |
+| 🎮 **Game Development** | ![Unity](https://img.shields.io/badge/Unity-Game_Engine-black?style=flat&logo=unity) ![C#](https://img.shields.io/badge/C%23-Programming-purple?style=flat&logo=csharp) ![Zenject](https://img.shields.io/badge/Zenject-DI_Framework-blue?style=flat) |
+| 🌐 **Web Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ## ⚡ Key Experience
 
