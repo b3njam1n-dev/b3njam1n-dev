@@ -63,10 +63,7 @@ Currently focused on improving my **native iOS development skills** and building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan%20Semybratov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-semybratov)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b3njam1n_1)
-
-**Telegram:** @b3njam1n_1
-
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b3njamin_1)
 ---
 
 ⭐ **Open to Junior iOS Developer opportunities (Remote)**
