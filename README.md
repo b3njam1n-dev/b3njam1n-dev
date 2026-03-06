@@ -1,12 +1,20 @@
-# 👋 Hi, I'm Bohdan Semybratov
+<h1 align="center">👋 Hi, I'm Bohdan Semybratov</h1>
 
-🚀 **Junior iOS Developer**
+<h3 align="center">🚀 Junior iOS Developer</h3>
 
+<p align="center">
 Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
+</p>
 
+<p align="center">
 📍 Trnava, Slovakia  
-📧 bohdan2003myr@gmail.com  
+</p>
 
+<p align="center">
+<a href="mailto:bohdan2003myr@gmail.com">
+<img src="https://img.shields.io/badge/Email-bohdan2003myr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -62,7 +70,6 @@ Currently focused on improving my **native iOS development skills** and building
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan%20Semybratov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-semybratov)
-
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b3njamin_1)
 ---
 
