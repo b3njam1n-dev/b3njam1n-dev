@@ -23,37 +23,60 @@ Currently focused on improving my **native iOS development skills** and building
 
 ## 🛠 Tech Stack
 
-### iOS Development
-- Swift
-- SwiftUI
-- MVVM Architecture
-- REST API Integration
-- JSON Parsing
-- UserDefaults
-- App Lifecycle
+<table>
+<tr>
+<td width="33%">
 
-### Mobile SDK Integration
-- AppsFlyer
-- OneSignal
-- Firebase Analytics
-- Unity Ads
+### 📱 iOS Development
+<p>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/REST_API-Integration-green?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/JSON-Parsing-orange?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/UserDefaults-iOS-lightgrey?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/App_Lifecycle-iOS-darkblue?style=for-the-badge"/>
+</p>
 
-### Backend
-- Cloudflare Workers
-- TypeScript
-- REST APIs
+</td>
+<td width="33%">
 
-### Game Development
-- Unity
-- C#
-- Zenject
-- Mobile Game Architecture
+### 🔌 Mobile SDKs
+<p>
+<img src="https://img.shields.io/badge/AppsFlyer-SDK-purple?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/OneSignal-Push-red?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Firebase-Analytics-yellow?style=for-the-badge&logo=firebase"/><br>
+<img src="https://img.shields.io/badge/Unity_Ads-Monetization-black?style=for-the-badge"/>
+</p>
 
-### Web Development
-- JavaScript
-- HTML
-- CSS
+### ☁ Backend
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-Workers-orange?style=for-the-badge&logo=cloudflare"/><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/REST_API-Backend-green?style=for-the-badge"/>
+</p>
 
+</td>
+<td width="33%">
+
+### 🎮 Game Development
+<p>
+<img src="https://img.shields.io/badge/Unity-Game_Engine-black?style=for-the-badge&logo=unity"/><br>
+<img src="https://img.shields.io/badge/C%23-Programming-purple?style=for-the-badge&logo=csharp"/><br>
+<img src="https://img.shields.io/badge/Zenject-DI_Framework-blue?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Mobile_Game-Architecture-darkgreen?style=for-the-badge"/>
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Key Experience
@@ -129,8 +152,8 @@ Novograd-Volynskyi Applied Polytechnic College
 LinkedIn  
 https://linkedin.com/in/bohdan-semybratov
 
-GitHub  
-https://github.com/b3njam1n-dev
+Telegram  
+@b3njamin_1
 
 ---
 
