@@ -84,10 +84,10 @@ Swift • SwiftUI • Mobile SDK Integrations • App Store Deployment
 
 | Role | Period | Key Responsibilities |
 |-----|------|----------------|
-| 📱 **iOS Developer** <br> Confidential Company (NDA) • Remote | 05/2025 – 03/2026 | • Development of iOS applications using **Swift & SwiftUI** <br> • Integration of mobile SDKs (**AppsFlyer, OneSignal**) <br> • App deployment and release management in **App Store Connect** <br> • Handling App Store review issues <br> • Configuration of **AWS remote macOS environments** for builds |
-| 🎮 **Unity Developer** <br> Confidential Company (NDA) • Remote | 04/2024 – 05/2025 | • Development of mobile applications and games using **Unity (C#)** <br> • Integration of third-party SDKs and analytics <br> • Gameplay mechanics and UI systems implementation <br> • Optimization and debugging of mobile builds |
-| 🌐 **Web Designer / Frontend Developer** <br> Confidential Company (NDA) • Remote | 05/2023 – 04/2024 | • Development of marketing landing pages <br> • **HTML / CSS** layout implementation <br> • Responsive UI development |
-| 💻 **Freelance Developer** <br> Self-Employed | 09/2020 – Present | • Web development for small businesses <br> • Telegram bot development using **Python** <br> • Development of automation scripts <br> • Landing page development (**HTML, CSS, JavaScript**) |
+| 📱 **iOS Developer** <br> Confidential Company (NDA) • Remote | 11.2025 – 03.2026 | • Development of iOS applications using **Swift & SwiftUI** <br> • Integration of mobile SDKs (**AppsFlyer, OneSignal**) <br> • App deployment and release management in **App Store Connect** <br> • Handling App Store review issues <br> • Configuration of **AWS remote macOS environments** for builds |
+| 🎮 **Unity Developer** <br> Confidential Company (NDA) • Remote | 03.2025 – 11.2025 | • Development of mobile applications and games using **Unity (C#)** <br> • Integration of third-party SDKs and analytics <br> • Gameplay mechanics and UI systems implementation <br> • Optimization and debugging of mobile builds |
+| 🌐 **Web Designer / Frontend Developer** <br> Confidential Company (NDA) • Remote | 05.2023 – 03.2025 | • Development of marketing landing pages <br> • **HTML / CSS** layout implementation <br> • Responsive UI development |
+| 💻 **Freelance Developer** <br> Self-Employed | 03.2023 – Present | • Web development for small businesses <br> • Telegram bot development using **Python** <br> • Development of automation scripts <br> • Landing page development (**HTML, CSS, JavaScript**) |
 
 ## 🎓 Education
 
